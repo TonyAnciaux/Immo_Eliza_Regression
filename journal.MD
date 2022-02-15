@@ -20,5 +20,18 @@ __**14/02/2022:**__
 - One-Hot Encoded:
 	- property types
 	- localities
+- Linear Regression
 
+
+__** 15/02/2022:**__
+
+- Polynomial Regressions:
+	- different variations of features selection:
+		- all (39 features)
+		- without OHE regions (28 features)
+		- without OHE regions and property types (13 features)
+- Standardization data:
+	- slightly decreased accuracy
+- pairplots on original data
+- scatter plot on Polynomial Regressions
 
