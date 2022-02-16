@@ -32,6 +32,6 @@ __** 15/02/2022:**__
 		- without OHE regions and property types (13 features)
 - Standardization data:
 	- slightly decreased accuracy
-- pairplots on original data
+- pairplots on original data & on Standardized data
 - scatter plot on Polynomial Regressions
-
+	- potential problems found
